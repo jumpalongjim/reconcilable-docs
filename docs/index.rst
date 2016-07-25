@@ -3,20 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Reconcilable's documentation!
-========================================
+Reconcilable documentation
+==========================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
+   getting_started
 
+..
+   Indices and tables
+   ==================
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
